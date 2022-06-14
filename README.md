@@ -21,7 +21,7 @@ I'm María Puche and I'm passionate about Data Science and Analytics. I have str
 - **Machine Learning Deployment:** Python, R and Spark.
 
 ### Used Programming Languages ⌨️
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=carlossalvadordiaz&show_icons=true&locale=en&layout=compact" alt="mariapuchemuñoz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariaPuche&show_icons=true&locale=en" alt="mariapuchemuñoz" /></p>
 
 ### Connect with Me 📫
 <p align="left">
