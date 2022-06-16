@@ -1,11 +1,11 @@
 ## Hey everyone 👋👋
 
-I'm María Puche and I'm passionate about Data Science and Analytics. I have strong background in Statistics, Economics and Business. I'm studing Master in Big Data & Business Analytics at University of Madrid, with Bacherlor Statistics and Business at Jaen University with majors in Marketing.
+I'm María Puche and I'm passionate about Data Science and Analytics. I have a strong background in Statistics, Economics and Business. I'm studing a Master in Big Data & Business Analytics at University of Madrid, with a Statistics and Business degree at Jaen University with majors in Marketing.
 
 ### About Me 👩
 - I’m currently doing an internship at Bosonit in big data department.💼 
-- I'm interested in Machine Learning and I like use it in business solutions. 👩🏻‍💻
-- I like to participate in kaggle competitions. 🥇 
+- I'm interested in Machine Learning and I like using it in business solutions. 👩🏻‍💻
+- I enjoy participating in kaggle competitions. 🥇 
 
 ### Skills ⚙️
 - **Data Collection and Storage:** SQL, MySQL, MongoDB and Hadoop.
